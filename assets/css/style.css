@@ -939,7 +939,7 @@ nav .logo img {
 }
 
 .info-container {
-    background-image: url("/assets/images/concept-contact-us.webp");
+    background-image: url("../images/concept-contact-us.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
